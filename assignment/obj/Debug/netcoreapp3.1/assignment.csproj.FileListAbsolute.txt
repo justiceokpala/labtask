@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\daze-works\assignment\obj\Debug\netcoreapp3.1\assignment.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\daze-works\assignment\obj\Debug\netcoreapp3.1\assignment.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\daze-works\assignment\obj\Debug\netcoreapp3.1\assignment.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\daze-works\assignment\bin\Debug\netcoreapp3.1\assignment.exe
+C:\CodebitsAcademy\c#\daze-works\assignment\bin\Debug\netcoreapp3.1\assignment.deps.json
+C:\CodebitsAcademy\c#\daze-works\assignment\bin\Debug\netcoreapp3.1\assignment.runtimeconfig.json
+C:\CodebitsAcademy\c#\daze-works\assignment\bin\Debug\netcoreapp3.1\assignment.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\daze-works\assignment\bin\Debug\netcoreapp3.1\assignment.dll
+C:\CodebitsAcademy\c#\daze-works\assignment\bin\Debug\netcoreapp3.1\assignment.pdb
+C:\CodebitsAcademy\c#\daze-works\assignment\obj\Debug\netcoreapp3.1\assignment.dll
+C:\CodebitsAcademy\c#\daze-works\assignment\obj\Debug\netcoreapp3.1\assignment.pdb
